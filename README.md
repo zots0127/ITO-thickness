@@ -1,6 +1,6 @@
 # ITO Layer Thickness Estimation in Solar Cells
 
-This repository contains the code and dataset for our paper "Real-time, Non-contact Estimation of Indium Tin Oxide (ITO) Layer Thickness in Solar Cells Using Deep Learning and Optical Interference Phenomena". 
+This repository contains the code and dataset for our paper "Using Deep Learning Image Regression Approach and Optical Interference Phenomena for Determining the Thickness of ITO Layers of Solar Cells". 
 
 ![Simulation Output](simulation/output.gif)
 
