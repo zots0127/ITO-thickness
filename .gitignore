@@ -1,3 +1,5 @@
 
 .DS_Store
 process.ipynb
+*.DNG
+code/r2.ipynb
