@@ -22,3 +22,6 @@ The dataset used for this project and the code for the CNN model are available i
 
 If you find our work useful, please cite our paper:
 
+Fan, X., Wang, B., Khokhar, M. Q., Zahid, M. A., Pham, D. P., & Yi, J. (2023). Real-Time ITO Layer Thickness for Solar Cells Using Deep Learning and Optical Interference Phenomena. Energies, 16(16), 6049. https://doi.org/10.3390/en16166049
+
+
